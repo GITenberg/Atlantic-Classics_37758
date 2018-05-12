@@ -9,23 +9,23 @@ contributor:
     gutenberg_agent_id: '36528'
     url: http://www.gutenberg.org/2009/agents/36528
   - agent_name: Eaton, Walter Prichard
-    birthdate: &id001 1878
+    birthdate: 1878
     deathdate: 1957
     gutenberg_agent_id: '31982'
     url: http://www.gutenberg.org/2009/agents/31982
   - agent_name: Bergengren, Ralph
     birthdate: 1871
-    deathdate: &id004 1947
+    deathdate: 1947
     gutenberg_agent_id: '25875'
     url: http://www.gutenberg.org/2009/agents/25875
   - agent_name: Sherwood, Margaret Pollock
     alias: Hastings, Elizabeth
     birthdate: 1864
-    deathdate: &id002 1955
+    deathdate: 1955
     gutenberg_agent_id: '909'
     url: http://www.gutenberg.org/2009/agents/909
   - agent_name: Schauffler, Robert Haven
-    birthdate: &id003 1879
+    birthdate: 1879
     deathdate: 1964
     gutenberg_agent_id: '8328'
     url: http://www.gutenberg.org/2009/agents/8328
@@ -38,8 +38,8 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Owen_Wister
   - agent_name: Montague, Margaret Prescott
     alias: Montague, Margaret Preston
-    birthdate: *id001
-    deathdate: *id002
+    birthdate: 1878
+    deathdate: 1955
     gutenberg_agent_id: '39291'
     url: http://www.gutenberg.org/2009/agents/39291
   - agent_name: Repplier, Agnes
@@ -50,7 +50,7 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Agnes_Repplier
   - agent_name: Gerould, Katharine Fullerton
     alias: Gerould, Katherine Fullerton
-    birthdate: *id003
+    birthdate: 1879
     deathdate: 1944
     gutenberg_agent_id: '35488'
     url: http://www.gutenberg.org/2009/agents/35488
@@ -68,7 +68,7 @@ contributor:
     gutenberg_agent_id: '39039'
     url: http://www.gutenberg.org/2009/agents/39039
   - agent_name: Strunsky, Simeon
-    birthdate: *id003
+    birthdate: 1879
     deathdate: 1948
     gutenberg_agent_id: '8616'
     url: http://www.gutenberg.org/2009/agents/8616
@@ -88,7 +88,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/39040
   - agent_name: Nicholson, Meredith
     birthdate: 1866
-    deathdate: *id004
+    deathdate: 1947
     gutenberg_agent_id: '4371'
     url: http://www.gutenberg.org/2009/agents/4371
     wikipedia: http://www.indianahistory.org/library/manuscripts/collection_guides/M0666.html
@@ -103,6 +103,8 @@ creator:
     gutenberg_agent_id: '31539'
     url: http://www.gutenberg.org/2009/agents/31539
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37758#Atlantic-Classics
 gutenberg_issued: '2011-10-14'
 gutenberg_type: Text
 identifiers:
