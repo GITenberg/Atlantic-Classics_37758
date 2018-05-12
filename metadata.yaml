@@ -1,0 +1,127 @@
+_repo: Atlantic-Classics_37758
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Comer, Cornelia A. P. (Cornelia Atwood Pratt)
+    aliases:
+    - Pratt, Cornelia Atwood
+    - Comer, Cornelia Atwood Pratt
+    gutenberg_agent_id: '36528'
+    url: http://www.gutenberg.org/2009/agents/36528
+  - agent_name: Eaton, Walter Prichard
+    birthdate: &id001 1878
+    deathdate: 1957
+    gutenberg_agent_id: '31982'
+    url: http://www.gutenberg.org/2009/agents/31982
+  - agent_name: Bergengren, Ralph
+    birthdate: 1871
+    deathdate: &id004 1947
+    gutenberg_agent_id: '25875'
+    url: http://www.gutenberg.org/2009/agents/25875
+  - agent_name: Sherwood, Margaret Pollock
+    alias: Hastings, Elizabeth
+    birthdate: 1864
+    deathdate: &id002 1955
+    gutenberg_agent_id: '909'
+    url: http://www.gutenberg.org/2009/agents/909
+  - agent_name: Schauffler, Robert Haven
+    birthdate: &id003 1879
+    deathdate: 1964
+    gutenberg_agent_id: '8328'
+    url: http://www.gutenberg.org/2009/agents/8328
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Haven_Schauffler
+  - agent_name: Wister, Owen
+    birthdate: 1860
+    deathdate: 1938
+    gutenberg_agent_id: '450'
+    url: http://www.gutenberg.org/2009/agents/450
+    wikipedia: http://en.wikipedia.org/wiki/Owen_Wister
+  - agent_name: Montague, Margaret Prescott
+    alias: Montague, Margaret Preston
+    birthdate: *id001
+    deathdate: *id002
+    gutenberg_agent_id: '39291'
+    url: http://www.gutenberg.org/2009/agents/39291
+  - agent_name: Repplier, Agnes
+    birthdate: 1855
+    deathdate: 1950
+    gutenberg_agent_id: '6888'
+    url: http://www.gutenberg.org/2009/agents/6888
+    wikipedia: http://en.wikipedia.org/wiki/Agnes_Repplier
+  - agent_name: Gerould, Katharine Fullerton
+    alias: Gerould, Katherine Fullerton
+    birthdate: *id003
+    deathdate: 1944
+    gutenberg_agent_id: '35488'
+    url: http://www.gutenberg.org/2009/agents/35488
+    wikipedia: http://en.wikipedia.org/wiki/Katharine_Fullerton_Gerould
+  - agent_name: Keeler, Lucy Elliot
+    gutenberg_agent_id: '39041'
+    url: http://www.gutenberg.org/2009/agents/39041
+  - agent_name: Sharp, Dallas Lore
+    birthdate: 1870
+    deathdate: 1929
+    gutenberg_agent_id: '5640'
+    url: http://www.gutenberg.org/2009/agents/5640
+    wikipedia: http://en.wikipedia.org/wiki/Dallas_Lore_Sharp
+  - agent_name: Baker, Katharine
+    gutenberg_agent_id: '39039'
+    url: http://www.gutenberg.org/2009/agents/39039
+  - agent_name: Strunsky, Simeon
+    birthdate: *id003
+    deathdate: 1948
+    gutenberg_agent_id: '8616'
+    url: http://www.gutenberg.org/2009/agents/8616
+    wikipedia: http://en.wikipedia.org/wiki/Simeon_Strunsky
+  - agent_name: Martin, Edward Sandford
+    aliases:
+    - Martin, Edward Sanford
+    - Martin, E. S. (Edward Sandford)
+    birthdate: 1856
+    deathdate: 1939
+    gutenberg_agent_id: '39037'
+    url: http://www.gutenberg.org/2009/agents/39037
+  - agent_name: Humphrey, Zephine
+    birthdate: 1874
+    deathdate: 1956
+    gutenberg_agent_id: '39040'
+    url: http://www.gutenberg.org/2009/agents/39040
+  - agent_name: Nicholson, Meredith
+    birthdate: 1866
+    deathdate: *id004
+    gutenberg_agent_id: '4371'
+    url: http://www.gutenberg.org/2009/agents/4371
+    wikipedia: http://www.indianahistory.org/library/manuscripts/collection_guides/M0666.html
+covers:
+- cover_type: archival
+  image_path: 37758-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Sedgwick, Ellery
+    birthdate: 1872
+    deathdate: 1960
+    gutenberg_agent_id: '31539'
+    url: http://www.gutenberg.org/2009/agents/31539
+description: ''
+gutenberg_issued: '2011-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37758'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American essays'
+tableOfContents: Fiddlers errant, by R.H. Schauffler -- Turtle eggs for Agassiz, by
+  D.L. Sharp -- A father to his freshman son, by E.S. Martin -- Intensive living,
+  by Cornelia A.P. Comer -- Reminiscence with postscript, by O. Wister -- The other
+  side, by Margaret Sherwood -- On authors, by Margaret P. Montague -- The provincial
+  American, by M. Nicholson -- Our Lady Poverty, by Agnes Repplier -- Entertaining
+  the candidate, by Katharine Baker -- The street, by S. Strunsky -- Fashions in men,
+  by Katherine F. Gerould -- A confession in prose, by W.P. Eaton -- In the chair,
+  by R. Bergengren -- The passing of indoors, by Zephine Humphrey -- The contented
+  heart, by Lucy E. Keeler.
+title: Atlantic Classics
+url: http://www.gutenberg.org/ebooks/37758
