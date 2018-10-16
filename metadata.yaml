@@ -116,6 +116,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PS'
 - !lcsh 'American essays'
+- GITenberg
 tableOfContents: Fiddlers errant, by R.H. Schauffler -- Turtle eggs for Agassiz, by
   D.L. Sharp -- A father to his freshman son, by E.S. Martin -- Intensive living,
   by Cornelia A.P. Comer -- Reminiscence with postscript, by O. Wister -- The other
